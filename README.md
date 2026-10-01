@@ -37,8 +37,6 @@
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=vishalm&icon=9&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vishalm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
 </div>
