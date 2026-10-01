@@ -1,25 +1,46 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="YOUR_GITHUB_USERNAME banner" />
+  <img src="banner.gif" alt="vishalm banner" />
 </p>
 
-**YOUR_TAGLINE_HERE**
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3DYOUR_CODETIME_UID)](https://codetime.dev)
+**Engineering accountable AI. Author of The Conversational Intelligence Series.**
 
 ---
 
-## 🌐 Socials
+## Socials
 
-| Facebook | Instagram | LinkedIn | Pinterest | Reddit | X (Twitter) | CodePen |
-|----------|-----------|----------|-----------|--------|-------------|---------|
-| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) | [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/YOUR_PINTEREST_USERNAME) | [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/YOUR_REDDIT_USERNAME) | [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_USERNAME) | [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?logo=Codepen&logoColor=white)](https://codepen.io/YOUR_CODEPEN_USERNAME) |
+| Facebook | Instagram | X (Twitter) | Medium |
+|----------|-----------|-------------|--------|
+| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mishravishal) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/007vishal/) | [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vishalM84) | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@vishal.mishra84) |
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=9&color=0)](https://visitcount.itsvg.in)
+## Books
+
+### The Conversational Intelligence Series: Agentic AI Insurance
+
+| # | Title | Link |
+|---|-------|------|
+| 1 | **The Blast Radius** · Intelligence came first. Accountability had to be built. | [Amazon](https://www.amazon.in/dp/B0HFG3ZT6T) |
+| 2 | **The Price of a Decision** · You cannot insure what you cannot measure. | [Amazon](https://www.amazon.in/dp/B0HFN3R4NC) |
+| 1 & 2 | **The Blast Radius - The Price of a Decision** · Every decision was logged. Nobody approved any of them. | [Amazon](https://www.amazon.in/dp/B0H2CHF5ZJ) |
+| 7 | **The Trust Premium** · The Agent Insurance Framework: the engineering, underwriting, and revenue playbook for insurable AI agents. | [Amazon](https://www.amazon.in/dp/B0HFZMF2C5) |
+
+### Support Series
+
+| # | Title | Link |
+|---|-------|------|
+| 3 | **The Business Engineer** · From writing code to owning the outcomes. | [Amazon](https://www.amazon.in/dp/B0H27B3ZQZ) |
+| 4 | **The Art of Cold Calling** · From rhetoric to relationship, from scripts to intelligence. | [Amazon](https://www.amazon.in/dp/B0HFN18YHS) |
+| 5 | **The Art of Cold Calling in the Age of AI** · From the first five seconds to the control plane. | [Amazon](https://www.amazon.in/dp/B0HFP7G426) |
+| 6 | **The Architecture of Trust** · A novel of agentic AI, accountability, and the engineering of trust. | [Amazon](https://www.amazon.in/dp/B0HFR1WFPT) |
+| 8 | **The Haridwar Run** · For the people who write the number down before anybody has asked for it. | [Amazon](https://www.amazon.in/dp/B0HH7CQC4L) |
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=vishalm&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=vishalm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak stats" />
 </div>
 
 <p align="center">
